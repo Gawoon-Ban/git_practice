@@ -1,5 +1,7 @@
 print "b"
 
+asdasd
+
 coooooooooooooooooasdosaoadodoasosadadaodkasdokkodokwqokwdok
 
 from test 1code
