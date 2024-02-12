@@ -11,6 +11,11 @@ main work
 main updated
 
 
+test;iweuhfiywgefujeffewfew
+>>>>>>> origin/test1
+
+test;iweuhfiywgefujeffewfew
+
 
 asdsddd
 a react
